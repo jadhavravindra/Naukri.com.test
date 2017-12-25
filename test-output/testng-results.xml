@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="97310" started-at="2017-12-25T13:42:48Z" finished-at="2017-12-25T13:44:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="97310" started-at="2017-12-25T13:42:48Z" finished-at="2017-12-25T13:44:25Z">
+      <class name="UpdateNaukri.Framework.Naukri.com.test.U_naukri">
+        <test-method status="PASS" signature="setup()[pri:0, instance:UpdateNaukri.Framework.Naukri.com.test.U_naukri@2a2d45ba]" name="setup" is-config="true" duration-ms="53176" started-at="2017-12-25T07:42:48Z" finished-at="2017-12-25T07:43:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="f()[pri:0, instance:UpdateNaukri.Framework.Naukri.com.test.U_naukri@2a2d45ba]" name="f" duration-ms="37023" started-at="2017-12-25T07:43:41Z" finished-at="2017-12-25T07:44:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:UpdateNaukri.Framework.Naukri.com.test.U_naukri@2a2d45ba]" name="exit" is-config="true" duration-ms="7079" started-at="2017-12-25T07:44:18Z" finished-at="2017-12-25T07:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- UpdateNaukri.Framework.Naukri.com.test.U_naukri -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
